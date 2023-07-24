@@ -1,5 +1,5 @@
-### [Nicholas Hopf](https://nhopf.com)
-Co-founder of cosseno.com, full-stack developer and master’s degree student. Currently preparing for a thesis on computer vision and robotics in maritime environments.
+### [Nicholas H.](https://nhopf.com)
+Co-founder of [cosseno.com](cosseno.com), full-stack developer and master’s degree student. Currently preparing for a thesis on computer vision and robotics in maritime environments.
 
 [Paper](https://nhopf.com)             |  Result
 :-------------------------------------:|:---------------:
@@ -10,7 +10,8 @@ Co-founder of cosseno.com, full-stack developer and master’s degree student. C
 - Thesis preparation @ FEUP
 - Friday talks @ Cosseno
 
-### Project archive:
+<details>
+  <summary>Selected archived projects</summary>
 
 #### Closed Source
 - Ampel - Identify vehicles from traffic cameras and classify them based on Brazilian DNIT vehicle classes
@@ -30,9 +31,10 @@ Co-founder of cosseno.com, full-stack developer and master’s degree student. C
 - FEUP Computer Vision - Work performed in the computer vision course of my master's degree, including the project "Multiple Vessel Detection and Tracking in Harsh Maritime Environments"
 - MegaHack 2020, Google Hash Code, Meu BMG, DATATTACK - Hackathons that I have participated in through the years
 
-### Testimonials:
+### Testimonials
 Software development and IT consulting
 
 > First of all, I would like to say that we at Ábaco are immensely satisfied with your work and the results already achieved with the changes made. In tests carried out, we noticed that our site has improved a lot in terms of searches and this has brought us an increase in potential customers. Another thing that I cannot fail to mention is the seriousness and quality of your work, as well as always meeting the deadlines.
 
 — Letícia Gomes, financial administrator at "Ábaco Consultoria Contábil".
+</details>
