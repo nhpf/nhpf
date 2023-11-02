@@ -1,7 +1,7 @@
 ### [Nicholas H.](https://nhopf.com)
-Co-founder of [cosseno.com](cosseno.com), full-stack developer and master’s degree student. Currently preparing for a thesis on computer vision and robotics in maritime environments.
+Co-founder of [cosseno.com](cosseno.com), full-stack developer and master’s degree student. Currently preparing for a thesis on DevOps and robotics in cloud environments.
 
-[Paper](https://nhopf.com)             |  Result
+[Latest paper](https://nhopf.com)             |  Result
 :-------------------------------------:|:---------------:
 <a href="https://nhopf.com"><img src="https://github.com/nhpf/nhpf/assets/52873240/bffabc3c-92bb-4810-a3af-0708c0763af6"></a> | <img src="https://github.com/nhpf/cv-feup/raw/master/img/a2.png">
 
