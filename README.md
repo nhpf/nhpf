@@ -1,5 +1,5 @@
 ### [Nicholas H.](https://nhopf.com)
-Co-founder of [cosseno.com](cosseno.com), full-stack developer and master’s degree student. Currently preparing for a thesis on DevOps and robotics in cloud environments.
+Co-founder of [cosseno.com](https://cosseno.com), full-stack developer and master’s degree student. Currently preparing for a thesis on DevOps and robotics in cloud environments.
 
 [Latest paper](https://nhopf.com)             |  Result
 :-------------------------------------:|:---------------:
@@ -16,6 +16,7 @@ Co-founder of [cosseno.com](cosseno.com), full-stack developer and master’s de
 #### Closed Source
 - Ampel - Identify vehicles from traffic cameras and classify them based on Brazilian DNIT vehicle classes
 - TSMG - A functional scale model for a decentralized power grid, mediated by smart contracts (ethereum)
+- Acoustiscope - Web app (PWA) that pairs paintings and music for cultural learning
 - Qelyse - Data visualization application for WhatsApp chat history data in which a complete PDF report is generated
 
 <p width="100%" align="center">
