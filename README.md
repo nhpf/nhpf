@@ -9,7 +9,7 @@ Co-founder & CTO of [cosseno.com](https://cosseno.com), full-stack developer inn
 - CTO @ Cosseno
 - CEO @ Erzot
 
-<details>
+<details open>
   <summary>Selected archived projects</summary>
 
 #### Closed Source
